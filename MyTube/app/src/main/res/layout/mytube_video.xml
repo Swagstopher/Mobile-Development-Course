@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+
+    <ImageView
+        android:id="@+id/video_thumbnail"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoName"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/video_thumbnail" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/video_thumbnail"
+        android:layout_toEndOf="@+id/video_thumbnail"
+        android:layout_marginBottom="11dp"
+        android:id="@+id/publishedDate"
+        android:textSize="24sp" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toggleButton"
+        android:layout_alignTop="@+id/videoViews"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/videoViews"
+        android:textSize="24sp"
+        android:layout_above="@+id/publishedDate"
+        android:layout_toEndOf="@+id/video_thumbnail"
+        android:layout_marginBottom="13dp" />
+
+</RelativeLayout>

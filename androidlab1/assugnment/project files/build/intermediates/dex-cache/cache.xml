@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_72d6cdcbb73621da079406a77071839b12b11dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_0ebde14a1b76b6745c0e0dc38445eb41dac3b345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_07dc219dfec86ae5ecbc235537f2bde61f9964a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_be71aaad536b626f140b9ee0dbf5a72d0880efd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_59f64f45c209817f8c28de90ad0b64a5d3474144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c17218bcf005e7d9ca0a96c00966b05511038c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6697f3a66e607fc9d9535747347372d40d88fd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4dd1b3ea8b5c738a98cdf54f2c8a79d7fd8c2e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_648299f446b04aa2f134bdc4db4d5a905c277e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_f5164b0472aecb4eb5db2c768481e587e546c31b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_b0f453ecbf512ae82abf1af676f1dc20041503b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_26b3b56ee56a8d9ba48838a8f274aa7dec66e5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_dcd083af78ead724c2d9d394dd509306470b38fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_bb8c297f55506fd17869e0d4c28a93e9ffb84abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ac3fa3b3e17472c614acc9338f6e1f4dece8d6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_ab0b0478841b6fa0e4e82c77aab764045ea64a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_dd0e799903a8802877bdf0e05307561914fa0cba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chrisnavy/Documents/class/cmpe137/androidlab1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_25df572dc462dc1ec1e4785f54e95479ea168f14.jar" />
+    </item>
+
+</items>

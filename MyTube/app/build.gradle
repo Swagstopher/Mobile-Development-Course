@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'My Android Key'
+            keyPassword 'kanyewest'
+            storeFile file('/Users/chrisnavy/Documents/class/cmpe137/andriodlab3.jks')
+            storePassword 'kanyewest'
+        }
+    }
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId "navy.chris.mytube"
+        minSdkVersion 19
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    compile files('libs/google-api-services-youtube-v3-rev124-1.19.0.jar')
+    compile files('libs/google-http-client-android-1.22.0.jar')
+    compile files('libs/google-api-client-android-1.22.0.jar')
+    compile files('libs/google-http-client-gson-1.22.0.jar')
+    compile 'com.google.android.gms:play-services-auth:10.0.1'
+    compile 'com.google.android.gms:play-services:10.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:design:25.0.1'
+    testCompile 'junit:junit:4.12'
+}
+
+
